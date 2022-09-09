@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400&display=swap');
+
+body {
+  background-color: #f3f1f1;
+  font-family: 'Work Sans', sans-serif;
+}
+
+button {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 200;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  color: #555;
+}
